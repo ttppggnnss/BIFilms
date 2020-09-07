@@ -4,6 +4,12 @@
 
 [BI Films](http://deploy-vue.s3-website.ap-northeast-2.amazonaws.com/) <= 클릭하면 사이트로 이동합니다.
 
+테스트 아이디
+
+id : test
+
+pw : test1234!
+
 
 
 ## 🤵​ 팀원 정보 및 업무 분담 내역
